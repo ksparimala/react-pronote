@@ -1,0 +1,32 @@
+.container{
+    background-color: blue;
+    height: 800px;
+}
+.input-text{
+    border-style: solid 2px black;
+    height:300px;
+    width:300px;
+    background-color: blue;
+    margin-top:26px;
+    color: cornsilk;
+}
+h3{
+    margin-top: 0px;
+    bottom:20px;
+    color: cornsilk;
+}
+.output{
+    position: absolute;
+    left:330px;
+    top:20px;
+}
+.output-text{
+    background-color: black;
+    height:310px;
+    width:310px;
+    color: cornsilk;
+    margin-top:20px;
+    border-style: solid 2px rgb(248, 243, 243);
+}
+   
+    
